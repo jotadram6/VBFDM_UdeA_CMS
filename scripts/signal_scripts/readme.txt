@@ -23,7 +23,4 @@ de pythia y delphes, luego de esto la ejecución se realizará de forma automát
 evento y evento se deberían esperar 60 segundos, pero no considero que esto sea muy grave
 en estos momentos jajaja).
 
-Recordar que las tarjetas con las que se debe trabajar son, en un principio, las mismas
-que se usaron para la generación del background.
-
 
